@@ -1,0 +1,1 @@
+This repository contains the code, model architecture, and training data used to develop an emotion recognition system based on a neural network. The system identifies human emotions from facial expressions using a supervised learning approach.
